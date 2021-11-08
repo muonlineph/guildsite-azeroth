@@ -1,6 +1,6 @@
 ## guildsite-azeroth
 
-> This is a backup and archive of (Mobiusgames) Mu Philippine's **Azeroth** guild website, as it was last seen on webs.com (freewebs.com) before it was deactivated. I'm uploading it in public for future references, and maybe get to update the site to use modern web design and layout techniques if time permits.  
+> This is a backup and archive of the (Mobiusgames) Mu Philippine's **Azeroth** guild website, as it was last seen on webs.com (freewebs.com) before it was deactivated. I'm uploading it in public for future references, and maybe get to update the site to use modern web design and layout techniques if time permits.  
 >
 > **NOTE:** The original site uses static files and outdated HTML/JS approaches. Some functionality on various pages may not work on modern browsers. Some links may lead to 404 not found pages because some of the original static html files are missing.
 
