@@ -1,0 +1,30 @@
+<td width="196" style="background-image:url(/images/bg_cpanel_border.jpg); background-repeat:repeat-y;">
+
+<tr>
+    <td width="21%"><a href="#knight"><span style="font-weight: bold">Dark Knight</span></a></td>
+    <td width="21%"><a href="#wizard"><span style="font-weight: bold">Dark Wizard</span></a></td>
+    <td width="58%"><a href="#elf"><span style="font-weight: bold">Fairy Elf</span></a></td>
+  </tr>
+
+
+<td><a name="knight"></a><p class="verdana_smalltxt_black"><span style="font-weight: bold">Dark Knight</span> | <a href="#wizard">Dark Wizard</a> | <a href="#elf">Fairy Elf</a> | <a href="#gladiator">Magic Gladiator</a> | <a href="#darklord">Dark Lord</a> | <a href="guide.php">Game Guide</a> | <a href="#top">Back to Top</a></p>
+      <img src="../images/gameguide/characters/class_dk.jpg" width="660" height="187"></td>
+  </tr>
+  <tr>
+    <td>
+
+lightgrey
+darkgray
+dimgray
+silver
+whitesmoke
+gainsboro
+
+beige
+tan
+saddlebrown
+aliceblue
+<!-- <body bgcolor="#25373D"> -->
+
+
+
