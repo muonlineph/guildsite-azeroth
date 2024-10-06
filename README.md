@@ -8,7 +8,7 @@
 
 ## Demo
 
-https://github.com/muonlineph/guildsite-azeroth/public
+https://github.com/muonlineph/guildsite-azeroth/
 
 
 ### Content
