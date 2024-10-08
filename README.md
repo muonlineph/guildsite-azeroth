@@ -8,7 +8,7 @@
 
 ## Demo
 
-https://github.com/muonlineph/guildsite-azeroth/
+https://muonlineph.github.io/guildsite-azeroth/
 
 
 ### Content
@@ -40,7 +40,7 @@ This project has no dependencies since it only contains static website files. Ot
 ## Usage
 
 1. Navigate to the project root directory using a terminal, then run the local web server.<br>
-`docker run -it --rm -p 3000:3000 -v %cd%\public:/opt/app/public -e IS_DOCKER=true -e USE_POLLING=true weaponsforge/livereload-basic:latest`
+`docker run -it --rm -p 3000:3000 -v %cd%\public:/opt/app/public -e USE_POLLING=true weaponsforge/livereload-basic:latest`
 
 2. Load the localhost website at:<br>
 `http://localhost:3000`
